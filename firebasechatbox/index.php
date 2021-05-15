@@ -7,14 +7,14 @@
      https://firebase.google.com/docs/web/setup#available-libraries -->
 
 <script>
-  // Your web app's Firebase configuration
+  // Inesrt YOUR Firebase configuration
   var firebaseConfig = {
-    apiKey: "AIzaSyDg2w1nYfITMLSqL9GjqstRpJHzFCaqHwk",
-    authDomain: "my-test-project-a69ef.firebaseapp.com",
-    projectId: "my-test-project-a69ef",
-    storageBucket: "my-test-project-a69ef.appspot.com",
-    messagingSenderId: "56654829597",
-    appId: "1:56654829597:web:c727592d812971d458cef4"
+    apiKey: "AIzaSyDg2sf353gq345gesqstRpJHzFCaqHwk",
+    authDomain: "my-test-project-a6969.firebaseapp.com",
+    projectId: "my-test-project-a6969",
+    storageBucket: "my-test-project-a6969.appspot.com",
+    messagingSenderId: "566523232353597",
+    appId: "1:56654829597:web:c727592d8135635671d458cef4"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
